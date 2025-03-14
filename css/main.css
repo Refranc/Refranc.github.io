@@ -1,0 +1,18 @@
+html,
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  background-image: url("https://i.imgur.com/bS8KWFU.jpeg");
+    color: #333;
+}
+
+header {
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header logo h1 {
+    margin: 0;
+}
